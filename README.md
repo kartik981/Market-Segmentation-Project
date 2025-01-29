@@ -16,7 +16,9 @@ While traditional descriptive methods provide valuable data, they are often insu
 - Implemented K-means clustering with five segments.
 
 ### Visualization
+![Demographic Dashboard](https://github.com/kartik981/Market-Segmentation-Project/blob/88a173cde4219d368fe74bcfe547782b2e1779dd/demographic%20dashboard.png)
 ![Psychographic Dashboard](https://github.com/kartik981/Market-Segmentation-Project/blob/1da761ae09a17f44b58492fc59d4ae0c949ddcb2/Psychographic%20Dashboard.png)
+![Geographical Distribution](https://github.com/kartik981/Market-Segmentation-Project/blob/88a173cde4219d368fe74bcfe547782b2e1779dd/geographical_distribution.png)
 
 ## Results
 ### Cluster Profiles
