@@ -4,8 +4,7 @@
 Market segmentation has been a crucial tool for improving business revenue and efficiency. By leveraging data on customer characteristics and behaviors, businesses can create homogeneous customer groups to implement targeted marketing strategies. This project uses cluster analysis to segment customers for a chain restaurant planning to open a new location.
 
 ## Literature Review
-Traditional segmentation methods provide insights but may not capture hidden customer patterns. Cluster analysis, a multivariate technique, enhances segmentation by grouping similar customers based on their characteristics.
-
+While traditional descriptive methods provide valuable data, they are often insufficient in revealing patterns between customer groups. Cluster analysis, a multivariate technique, has proven valuable for market segmentation. However, challenges remain, including subjective decisions during implementation and ensuring segment stability across datasets.
 ## Methodology
 ### Data Preparation
 - Combined multiple occupation-related columns into a single column to reduce complexity.
@@ -17,7 +16,7 @@ Traditional segmentation methods provide insights but may not capture hidden cus
 - Implemented K-means clustering with five segments.
 
 ### Visualization
-- Created customer segmentation dashboards using Tableau.
+(https://github.com/kartik981/Market-Segmentation-Project/blob/1da761ae09a17f44b58492fc59d4ae0c949ddcb2/Psychographic%20Dashboard.png)
 
 ## Results
 ### Cluster Profiles
